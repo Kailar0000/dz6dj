@@ -35,7 +35,7 @@ else:
 SESSION_COOKIE_SECURE = True
 CSRF_COOKIE_SECURE = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dantalian1994.pythonanywhere.com',]
 
 
 # Application definition
